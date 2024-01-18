@@ -11,7 +11,7 @@ JavaScript: Adiciona interatividade e funcionalidades dinâmicas.
 
 ## Como Utilizar 🚀
 ## 1. Clone o Repositório:
-git clone https://github.com/myersdev/portfolio.git
+git clone [https://github.com/myersdev/portfolio.git](https://github.com/myersdc/Portfolio-responsivo-completo)
 
 ## 2. Abra o Projeto:
 Abra o diretório do projeto em seu editor de código favorito.
